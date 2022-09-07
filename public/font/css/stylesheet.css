@@ -1,0 +1,149 @@
+
+
+@font-face {
+    font-family: 'HBOLogoSupplement';
+    src: url('HBOLogoSupplement.eot');
+    src: url('HBOLogoSupplement.eot?#iefix') format('embedded-opentype'),
+        url('HBOLogoSupplement.woff2') format('woff2'),
+        url('HBOLogoSupplement.woff') format('woff'),
+        url('HBOLogoSupplement.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Disney Encanto';
+    src: url('DisneyEncanto.eot');
+    src: url('DisneyEncanto.eot?#iefix') format('embedded-opentype'),
+        url('DisneyEncanto.woff2') format('woff2'),
+        url('DisneyEncanto.woff') format('woff'),
+        url('DisneyEncanto.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+
+@font-face {
+    font-family: 'Lost Fish';
+    src: url('LostFish.eot');
+    src: url('LostFish.eot?#iefix') format('embedded-opentype'),
+        url('LostFish.woff2') format('woff2'),
+        url('LostFish.woff') format('woff'),
+        url('LostFish.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nickelodeon Sans';
+    src: url('NickelodeonSans-Bold.eot');
+    src: url('NickelodeonSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('NickelodeonSans-Bold.woff2') format('woff2'),
+        url('NickelodeonSans-Bold.woff') format('woff'),
+        url('NickelodeonSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roblox Black Outline';
+    src: url('RobloxBlackOutline.eot');
+    src: url('RobloxBlackOutline.eot?#iefix') format('embedded-opentype'),
+        url('RobloxBlackOutline.woff2') format('woff2'),
+        url('RobloxBlackOutline.woff') format('woff'),
+        url('RobloxBlackOutline.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roblox Black Round';
+    src: url('RobloxBlackRound.eot');
+    src: url('RobloxBlackRound.eot?#iefix') format('embedded-opentype'),
+        url('RobloxBlackRound.woff2') format('woff2'),
+        url('RobloxBlackRound.woff') format('woff'),
+        url('RobloxBlackRound.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roblox Font';
+    src: url('RobloxFont-Light.eot');
+    src: url('RobloxFont-Light.eot?#iefix') format('embedded-opentype'),
+        url('RobloxFont-Light.woff2') format('woff2'),
+        url('RobloxFont-Light.woff') format('woff'),
+        url('RobloxFont-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roblox Font';
+    src: url('RobloxFont-Black.eot');
+    src: url('RobloxFont-Black.eot?#iefix') format('embedded-opentype'),
+        url('RobloxFont-Black.woff2') format('woff2'),
+        url('RobloxFont-Black.woff') format('woff'),
+        url('RobloxFont-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roblox Black Shadow';
+    src: url('RobloxBlackShadow.eot');
+    src: url('RobloxBlackShadow.eot?#iefix') format('embedded-opentype'),
+        url('RobloxBlackShadow.woff2') format('woff2'),
+        url('RobloxBlackShadow.woff') format('woff'),
+        url('RobloxBlackShadow.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roblox Font';
+    src: url('RobloxFont-Bold.eot');
+    src: url('RobloxFont-Bold.eot?#iefix') format('embedded-opentype'),
+        url('RobloxFont-Bold.woff2') format('woff2'),
+        url('RobloxFont-Bold.woff') format('woff'),
+        url('RobloxFont-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roblox Font';
+    src: url('RobloxFont-Regular.eot');
+    src: url('RobloxFont-Regular.eot?#iefix') format('embedded-opentype'),
+        url('RobloxFont-Regular.woff2') format('woff2'),
+        url('RobloxFont-Regular.woff') format('woff'),
+        url('RobloxFont-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Salty Ocean';
+    src: url('SaltyOcean.eot');
+    src: url('SaltyOcean.eot?#iefix') format('embedded-opentype'),
+        url('SaltyOcean.woff2') format('woff2'),
+        url('SaltyOcean.woff') format('woff'),
+        url('SaltyOcean.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

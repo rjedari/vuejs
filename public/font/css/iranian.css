@@ -1,0 +1,173 @@
+@font-face {
+    font-family: 'Iranian Sans';
+    src: url('IranianSans.eot');
+    src: url('IranianSans.eot?#iefix') format('embedded-opentype'),
+        url('IranianSans.woff2') format('woff2'),
+        url('IranianSans.woff') format('woff'),
+        url('IranianSans.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Iranian Sans';
+    src: url('IranianSans_1.eot');
+    src: url('IranianSans_1.eot?#iefix') format('embedded-opentype'),
+        url('IranianSans_1.woff2') format('woff2'),
+        url('IranianSans_1.woff') format('woff'),
+        url('IranianSans_1.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+@font-face {
+    font-family: 'IRANSans';
+    src: url('IRANSans-Medium.eot');
+    src: url('IRANSans-Medium.eot?#iefix') format('embedded-opentype'),
+        url('IRANSans-Medium.woff2') format('woff2'),
+        url('IRANSans-Medium.woff') format('woff'),
+        url('IRANSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IRANSans';
+    src: url('IRANSans.eot');
+    src: url('IRANSans.eot?#iefix') format('embedded-opentype'),
+        url('IRANSans.woff2') format('woff2'),
+        url('IRANSans.woff') format('woff'),
+        url('IRANSans.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+@font-face {
+    font-family: 'Vazirmatn';
+    src: url('Vazirmatn-Black.eot');
+    src: url('Vazirmatn-Black.eot?#iefix') format('embedded-opentype'),
+        url('Vazirmatn-Black.woff2') format('woff2'),
+        url('Vazirmatn-Black.woff') format('woff'),
+        url('Vazirmatn-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Vazirmatn';
+    src: url('Vazirmatn-Bold.eot');
+    src: url('Vazirmatn-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Vazirmatn-Bold.woff2') format('woff2'),
+        url('Vazirmatn-Bold.woff') format('woff'),
+        url('Vazirmatn-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Vazirmatn';
+    src: url('Vazirmatn-ExtraLight.eot');
+    src: url('Vazirmatn-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('Vazirmatn-ExtraLight.woff2') format('woff2'),
+        url('Vazirmatn-ExtraLight.woff') format('woff'),
+        url('Vazirmatn-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Vazirmatn';
+    src: url('Vazirmatn-ExtraBold.eot');
+    src: url('Vazirmatn-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('Vazirmatn-ExtraBold.woff2') format('woff2'),
+        url('Vazirmatn-ExtraBold.woff') format('woff'),
+        url('Vazirmatn-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Vazirmatn';
+    src: url('Vazirmatn-Medium.eot');
+    src: url('Vazirmatn-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Vazirmatn-Medium.woff2') format('woff2'),
+        url('Vazirmatn-Medium.woff') format('woff'),
+        url('Vazirmatn-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Vazirmatn';
+    src: url('Vazirmatn-Light.eot');
+    src: url('Vazirmatn-Light.eot?#iefix') format('embedded-opentype'),
+        url('Vazirmatn-Light.woff2') format('woff2'),
+        url('Vazirmatn-Light.woff') format('woff'),
+        url('Vazirmatn-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Vazirmatn';
+    src: url('Vazirmatn-SemiBold.eot');
+    src: url('Vazirmatn-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Vazirmatn-SemiBold.woff2') format('woff2'),
+        url('Vazirmatn-SemiBold.woff') format('woff'),
+        url('Vazirmatn-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Vazirmatn';
+    src: url('Vazirmatn-Regular.eot');
+    src: url('Vazirmatn-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Vazirmatn-Regular.woff2') format('woff2'),
+        url('Vazirmatn-Regular.woff') format('woff'),
+        url('Vazirmatn-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Vazirmatn';
+    src: url('Vazirmatn-Thin.eot');
+    src: url('Vazirmatn-Thin.eot?#iefix') format('embedded-opentype'),
+        url('Vazirmatn-Thin.woff2') format('woff2'),
+        url('Vazirmatn-Thin.woff') format('woff'),
+        url('Vazirmatn-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Vazirmatn';
+    src: url('Vazirmatn-Regular_1.eot');
+    src: url('Vazirmatn-Regular_1.eot?#iefix') format('embedded-opentype'),
+        url('Vazirmatn-Regular_1.woff2') format('woff2'),
+        url('Vazirmatn-Regular_1.woff') format('woff'),
+        url('Vazirmatn-Regular_1.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
